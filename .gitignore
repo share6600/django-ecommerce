@@ -3,3 +3,4 @@
 **/wsgi
 **/__init__
 **/apps
+/db.sqlite3
