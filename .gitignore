@@ -1,0 +1,5 @@
+**.pyc
+**/migrations
+**/wsgi
+**/__init__
+**/apps
